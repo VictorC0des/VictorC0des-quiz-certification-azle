@@ -9,7 +9,7 @@ Clone the project
 
 Go to the project directory
 
-```bash
+  bash
   cd quiz-certification-azle
 ```
 
