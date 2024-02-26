@@ -1,0 +1,552 @@
+    [
+        {
+            "categoria": "Historia",
+            "pregunta": "¿Quién descubrió América?",
+            "opciones": [
+                "Cristóbal Colón",
+                "Albert Einstein",
+                "Isaac Newton",
+                "Nikola Tesla"
+            ],
+            "respuestaCorrecta": "Cristóbal Colón"
+        },
+        {
+            "categoria": "Ciencia",
+            "pregunta": "¿Cuál es el símbolo químico del oro?",
+            "opciones": [
+                "Au",
+                "Ag",
+                "Fe",
+                "Cu"
+            ],
+            "respuestaCorrecta": "Au"
+        },
+        {
+            "categoria": "Geografía",
+            "pregunta": "¿Cuál es el río más largo del mundo?",
+            "opciones": [
+                "Amazonas",
+                "Nilo",
+                "Yangtsé",
+                "Misisipi"
+            ],
+            "respuestaCorrecta": "Amazonas"
+        },
+        {
+            "categoria": "Deportes",
+            "pregunta": "¿En qué deporte se utiliza una raqueta?",
+            "opciones": [
+                "Tenis",
+                "Fútbol",
+                "Baloncesto",
+                "Golf"
+            ],
+            "respuestaCorrecta": "Tenis"
+        },
+        {
+            "categoria": "Arte",
+            "pregunta": "¿Quién pintó la Mona Lisa?",
+            "opciones": [
+                "Leonardo da Vinci",
+                "Pablo Picasso",
+                "Vincent van Gogh",
+                "Michelangelo"
+            ],
+            "respuestaCorrecta": "Leonardo da Vinci"
+        },
+        {
+            "categoria": "Literatura",
+            "pregunta": "¿Quién escribió \"Don Quijote de la Mancha\"?",
+            "opciones": [
+                "Miguel de Cervantes",
+                "William Shakespeare",
+                "Friedrich Nietzsche",
+                "Jorge Luis Borges"
+            ],
+            "respuestaCorrecta": "Miguel de Cervantes"
+        },
+        {
+            "categoria": "Música",
+            "pregunta": "¿Quién compuso la \"Quinta Sinfonía\"?",
+            "opciones": [
+                "Ludwig van Beethoven",
+                "Wolfgang Amadeus Mozart",
+                "Johann Sebastian Bach",
+                "Franz Schubert"
+            ],
+            "respuestaCorrecta": "Ludwig van Beethoven"
+        },
+        {
+            "categoria": "Cine",
+            "pregunta": "¿Quién dirigió la película \"El Padrino\"?",
+            "opciones": [
+                "Francis Ford Coppola",
+                "Martin Scorsese",
+                "Steven Spielberg",
+                "Alfred Hitchcock"
+            ],
+            "respuestaCorrecta": "Francis Ford Coppola"
+        },
+        {
+            "categoria": "Tecnología",
+            "pregunta": "¿Quién inventó el teléfono?",
+            "opciones": [
+                "Alexander Graham Bell",
+                "Thomas Edison",
+                "Nikola Tesla",
+                "Albert Einstein"
+            ],
+            "respuestaCorrecta": "Alexander Graham Bell"
+        },
+        {
+            "categoria": "Matemáticas",
+            "pregunta": "¿Cuál es el resultado de la operación 2 + 2?",
+            "opciones": [
+                "4",
+                "3",
+                "5",
+                "6"
+            ],
+            "respuestaCorrecta": "4"
+        },
+        {
+            "categoria": "Historia",
+            "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+            "opciones": [
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "Benjamin Franklin"
+            ],
+            "respuestaCorrecta": "George Washington"
+        },
+        {
+            "categoria": "Ciencia",
+            "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+            "opciones": [
+                "Júpiter",
+                "Saturno",
+                "Urano",
+                "Neptuno"
+            ],
+            "respuestaCorrecta": "Júpiter"
+        },
+        {
+            "categoria": "Geografía",
+            "pregunta": "¿Cuál es la montaña más alta del mundo?",
+            "opciones": [
+                "Everest",
+                "K2",
+                "Kilimanjaro",
+                "Aconcagua"
+            ],
+            "respuestaCorrecta": "Everest"
+        },
+        {
+            "categoria": "Deportes",
+            "pregunta": "¿En qué ciudad se celebraron los Juegos Olímpicos de 2020?",
+            "opciones": [
+                "Tokio",
+                "Londres",
+                "Río de Janeiro",
+                "Pekín"
+            ],
+            "respuestaCorrecta": "Tokio"
+        },
+        {
+            "categoria": "Arte",
+            "pregunta": "¿Quién es el autor de \"La noche estrellada\"?",
+            "opciones": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Claude Monet",
+                "Salvador Dalí"
+            ],
+            "respuestaCorrecta": "Vincent van Gogh"
+        },
+        {
+            "categoria": "Literatura",
+            "pregunta": "¿Quién escribió \"Cien años de soledad\"?",
+            "opciones": [
+                "Gabriel García Márquez",
+                "Mario Vargas Llosa",
+                "Julio Cortázar",
+                "Carlos Fuentes"
+            ],
+            "respuestaCorrecta": "Gabriel García Márquez"
+        },
+        {
+            "categoria": "Música",
+            "pregunta": "¿Quién es conocido como el \"Rey del Pop\"?",
+            "opciones": [
+                "Michael Jackson",
+                "Elvis Presley",
+                "Prince",
+                "Madonna"
+            ],
+            "respuestaCorrecta": "Michael Jackson"
+        },
+        {
+            "categoria": "Cine",
+            "pregunta": "¿Quién interpretó a Harry Potter en las películas?",
+            "opciones": [
+                "Daniel Radcliffe",
+                "Rupert Grint",
+                "Tom Felton",
+                "Matthew Lewis"
+            ],
+            "respuestaCorrecta": "Daniel Radcliffe"
+        },
+        {
+            "categoria": "Tecnología",
+            "pregunta": "¿Qué significa la sigla \"www\" en una dirección de internet?",
+            "opciones": [
+                "World Wide Web",
+                "World Web Wide",
+                "Web World Wide",
+                "Wide World Web"
+            ],
+            "respuestaCorrecta": "World Wide Web"
+        },
+        {
+            "categoria": "Matemáticas",
+            "pregunta": "¿Cuántos lados tiene un hexágono?",
+            "opciones": [
+                "6",
+                "5",
+                "7",
+                "8"
+            ],
+            "respuestaCorrecta": "6"
+        },
+        {
+            "categoria": "Historia",
+            "pregunta": "¿En qué año cayó el Muro de Berlín?",
+            "opciones": [
+                "1989",
+                "1991",
+                "1987",
+                "1993"
+            ],
+            "respuestaCorrecta": "1989"
+        },
+        {
+            "categoria": "Ciencia",
+            "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+            "opciones": [
+                "Piel",
+                "Hígado",
+                "Cerebro",
+                "Corazón"
+            ],
+            "respuestaCorrecta": "Piel"
+        },
+        {
+            "categoria": "Geografía",
+            "pregunta": "¿Cuál es la capital de Australia?",
+            "opciones": [
+                "Sídney",
+                "Melbourne",
+                "Perth",
+                "Canberra"
+            ],
+            "respuestaCorrecta": "Canberra"
+        },
+        {
+            "categoria": "Deportes",
+            "pregunta": "¿Cuántos jugadores hay en un equipo de fútbol?",
+            "opciones": [
+                "11",
+                "10",
+                "12",
+                "9"
+            ],
+            "respuestaCorrecta": "11"
+        },
+        {
+            "categoria": "Arte",
+            "pregunta": "¿Quién es el autor de \"El Grito\"?",
+            "opciones": [
+                "Edvard Munch",
+                "Pablo Picasso",
+                "Vincent van Gogh",
+                "Claude Monet"
+            ],
+            "respuestaCorrecta": "Edvard Munch"
+        },
+        {
+            "categoria": "Literatura",
+            "pregunta": "¿Quién escribió \"1984\"?",
+            "opciones": [
+                "George Orwell",
+                "Aldous Huxley",
+                "Ray Bradbury",
+                "Isaac Asimov"
+            ],
+            "respuestaCorrecta": "George Orwell"
+        },
+        {
+            "categoria": "Música",
+            "pregunta": "¿Quién compuso la \"Novena Sinfonía\"?",
+            "opciones": [
+                "Ludwig van Beethoven",
+                "Wolfgang Amadeus Mozart",
+                "Johann Sebastian Bach",
+                "Franz Schubert"
+            ],
+            "respuestaCorrecta": "Ludwig van Beethoven"
+        },
+        {
+            "categoria": "Cine",
+            "pregunta": "¿Quién dirigió la película \"Titanic\"?",
+            "opciones": [
+                "James Cameron",
+                "Steven Spielberg",
+                "Martin Scorsese",
+                "Quentin Tarantino"
+            ],
+            "respuestaCorrecta": "James Cameron"
+        },
+        {
+            "categoria": "Tecnología",
+            "pregunta": "¿Quién es el cofundador de Microsoft?",
+            "opciones": [
+                "Bill Gates",
+                "Steve Jobs",
+                "Mark Zuckerberg",
+                "Larry Page"
+            ],
+            "respuestaCorrecta": "Bill Gates"
+        },
+        {
+            "categoria": "Matemáticas",
+            "pregunta": "¿Cuál es el resultado de la operación 5 * 5?",
+            "opciones": [
+                "25",
+                "30",
+                "20",
+                "15"
+            ],
+            "respuestaCorrecta": "25"
+        },
+        {
+            "categoria": "Historia",
+            "pregunta": "¿En qué año se fundó la Organización de las Naciones Unidas?",
+            "opciones": [
+                "1945",
+                "1950",
+                "1939",
+                "1960"
+            ],
+            "respuestaCorrecta": "1945"
+        },
+        {
+            "categoria": "Ciencia",
+            "pregunta": "¿Cuál es el elemento más abundante en el universo?",
+            "opciones": [
+                "Hidrógeno",
+                "Oxígeno",
+                "Carbono",
+                "Helio"
+            ],
+            "respuestaCorrecta": "Hidrógeno"
+        },
+        {
+            "categoria": "Geografía",
+            "pregunta": "¿Cuál es el país más poblado del mundo?",
+            "opciones": [
+                "China",
+                "India",
+                "Estados Unidos",
+                "Indonesia"
+            ],
+            "respuestaCorrecta": "China"
+        },
+        {
+            "categoria": "Deportes",
+            "pregunta": "¿En qué país se celebró la Copa del Mundo de la FIFA 2018?",
+            "opciones": [
+                "Rusia",
+                "Brasil",
+                "Alemania",
+                "Sudáfrica"
+            ],
+            "respuestaCorrecta": "Rusia"
+        },
+        {
+            "categoria": "Arte",
+            "pregunta": "¿Quién es el autor de 'Guernica'?",
+            "opciones": [
+                "Pablo Picasso",
+                "Salvador Dalí",
+                "Joan Miró",
+                "Diego Velázquez"
+            ],
+            "respuestaCorrecta": "Pablo Picasso"
+        },
+        {
+            "categoria": "Literatura",
+            "pregunta": "¿Quién escribió 'Moby Dick'?",
+            "opciones": [
+                "Herman Melville",
+                "Mark Twain",
+                "Ernest Hemingway",
+                "F. Scott Fitzgerald"
+            ],
+            "respuestaCorrecta": "Herman Melville"
+        },
+        {
+            "categoria": "Música",
+            "pregunta": "¿Quién es conocido como la 'Reina del Pop'?",
+            "opciones": [
+                "Madonna",
+                "Britney Spears",
+                "Lady Gaga",
+                "Rihanna"
+            ],
+            "respuestaCorrecta": "Madonna"
+        },
+        {
+            "categoria": "Cine",
+            "pregunta": "¿Quién interpretó a James Bond en 'Casino Royale' (2006)?",
+            "opciones": [
+                "Daniel Craig",
+                "Sean Connery",
+                "Pierce Brosnan",
+                "Roger Moore"
+            ],
+            "respuestaCorrecta": "Daniel Craig"
+        },
+        {
+            "categoria": "Tecnología",
+            "pregunta": "¿Qué significa la sigla 'HTML' en desarrollo web?",
+            "opciones": [
+                "Hyper Text Markup Language",
+                "Hyperlinks and Text Markup Language",
+                "Home Tool Markup Language",
+                "Hyper Tool Markup Language"
+            ],
+            "respuestaCorrecta": "Hyper Text Markup Language"
+        },
+        {
+            "categoria": "Matemáticas",
+            "pregunta": "¿Cuál es el resultado de la operación 10 - 3?",
+            "opciones": [
+                "7",
+                "8",
+                "6",
+                "5"
+            ],
+            "respuestaCorrecta": "7"
+        },
+        {
+            "categoria": "Historia",
+            "pregunta": "¿Quién fue el primer hombre en caminar sobre la luna?",
+            "opciones": [
+                "Neil Armstrong",
+                "Buzz Aldrin",
+                "Yuri Gagarin",
+                "Alan Shepard"
+            ],
+            "respuestaCorrecta": "Neil Armstrong"
+        },
+        {
+            "categoria": "Ciencia",
+            "pregunta": "¿Cuál es el órgano más pesado del cuerpo humano?",
+            "opciones": [
+                "Hígado",
+                "Cerebro",
+                "Piel",
+                "Pulmones"
+            ],
+            "respuestaCorrecta": "Hígado"
+        },
+        {
+            "categoria": "Geografía",
+            "pregunta": "¿Cuál es la capital de Canadá?",
+            "opciones": [
+                "Toronto",
+                "Vancouver",
+                "Montreal",
+                "Ottawa"
+            ],
+            "respuestaCorrecta": "Ottawa"
+        },
+        {
+            "categoria": "Deportes",
+            "pregunta": "¿Cuántos jugadores hay en un equipo de baloncesto?",
+            "opciones": [
+                "5",
+                "6",
+                "7",
+                "4"
+            ],
+            "respuestaCorrecta": "5"
+        },
+        {
+            "categoria": "Arte",
+            "pregunta": "¿Quién es el autor de 'La persistencia de la memoria'?",
+            "opciones": [
+                "Salvador Dalí",
+                "Pablo Picasso",
+                "Vincent van Gogh",
+                "Claude Monet"
+            ],
+            "respuestaCorrecta": "Salvador Dalí"
+        },
+        {
+            "categoria": "Literatura",
+            "pregunta": "¿Quién escribió 'Fahrenheit 451'?",
+            "opciones": [
+                "Ray Bradbury",
+                "George Orwell",
+                "Aldous Huxley",
+                "Isaac Asimov"
+            ],
+            "respuestaCorrecta": "Ray Bradbury"
+        },
+        {
+            "categoria": "Música",
+            "pregunta": "¿Quién compuso la 'Sinfonía del Nuevo Mundo'?",
+            "opciones": [
+                "Antonín Dvořák",
+                "Ludwig van Beethoven",
+                "Wolfgang Amadeus Mozart",
+                "Johann Sebastian Bach"
+            ],
+            "respuestaCorrecta": "Antonín Dvořák"
+        },
+        {
+            "categoria": "Cine",
+            "pregunta": "¿Quién dirigió la película 'Inception'?",
+            "opciones": [
+                "Christopher Nolan",
+                "Steven Spielberg",
+                "Martin Scorsese",
+                "Quentin Tarantino"
+            ],
+            "respuestaCorrecta": "Christopher Nolan"
+        },
+        {
+            "categoria": "Tecnología",
+            "pregunta": "¿Quién es el cofundador de Apple?",
+            "opciones": [
+                "Steve Jobs",
+                "Bill Gates",
+                "Mark Zuckerberg",
+                "Larry Page"
+            ],
+            "respuestaCorrecta": "Steve Jobs"
+        },
+        {
+            "categoria": "Matemáticas",
+            "pregunta": "¿Cuál es el resultado de la operación 3 * 3?",
+            "opciones": [
+                "9",
+                "6",
+                "12",
+                "15"
+            ],
+            "respuestaCorrecta": "9"
+        }
+    ]
