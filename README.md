@@ -6,9 +6,10 @@ Clone the project
 ```bash
   git clone 
   https://github.com/VictorC0des/quiz-certification-azle
+```
 
-Go to the project directory
-
+Go to the project director
+```
   bash
   cd quiz-certification-azle
 ```
