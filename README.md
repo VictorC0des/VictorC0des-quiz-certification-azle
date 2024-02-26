@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-
-=======
-# Fullstack dApp (Azle + Express + NextJS + ICP)
-
-This template is designed to easily build applications deployed on ICP using Azle + Express for RESTful APIs and Next.js for frontend development.
 
 ## Run Locally
 
