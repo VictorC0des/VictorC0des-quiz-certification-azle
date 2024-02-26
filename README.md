@@ -5,7 +5,7 @@ Clone the project
 
 ```bash
   git clone 
-'''https://github.com/VictorC0des/quiz. -certification-azle
+  https://github.com/VictorC0des/quiz-certification-azle
 
 Go to the project directory
 
@@ -83,4 +83,4 @@ Then, navitate to `frontend` folder:
 Run the following script:
 
 `npm run dev`
->>>>>>> 5bdf4c0 (first commit)
+>>>>>>>
