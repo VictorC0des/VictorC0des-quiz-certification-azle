@@ -11,12 +11,12 @@ Clone the project
 
 ```bash
   git clone 
-```https://github.com/VictorC0des/quiz-certification-azle
+'''https://github.com/VictorC0des/quiz. -certification-azle
 
 Go to the project directory
 
 ```bash
-  cd azle-api-rest-nextjs
+  cd quiz-certification-azle
 ```
 
 Install dependencies
